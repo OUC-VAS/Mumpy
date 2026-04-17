@@ -21,7 +21,7 @@ This repo contains an official PyTorch implementation of our paper: [Multilatera
 - [x] More analysis on why multiple-pyramid decoder.
 
 
-- ## 🌏Overview
+## 🌏Overview
 
 <img src=".\images\overview.png" style="zoom: 25%;" />
 
